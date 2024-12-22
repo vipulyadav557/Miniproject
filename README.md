@@ -54,8 +54,7 @@ Steps to Run
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/online-voting-system.git
-cd online-voting-system
+git clone https://github.com/vipulyadav557/Miniproject/blob/main/mini.cpp
 
 
 2. Compile the code:
